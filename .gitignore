@@ -5,8 +5,14 @@
 /.pnp
 .pnp.js
 
+# vscode
+/.vscode
+
 # testing
 /coverage
+
+# dev
+timestamp.txt
 
 # next.js
 /.next/
